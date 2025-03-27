@@ -5,7 +5,7 @@ Busco constantemente oportunidades para aprender, crecer y contribuir a proyecto
 
 🚀 Habilidades
 - PHP, PYTHON
-- Django, Lavarel
+- Django
 - Visual Studio Code, GitHub
 - Trabajo en equipo, escucha activa
 
